@@ -5,10 +5,10 @@
 <br/>
 
 ```
-                  Hello, I'm Poorvi Reddy
+                  
 ```
 
-# Aspiring Software Developer specializing in Full Stack Development, Cloud Computing
+# Hello , I'm Poorvi Reddy
 
 *Building scalable systems where cloud infrastructure meets modern web architecture —*
 *from serverless AWS pipelines to ML-integrated full stack platforms.*
