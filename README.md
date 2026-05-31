@@ -5,9 +5,7 @@
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  Hello, I'm Poorvi Reddy
-╚══════════════════════════════════════════════════════╝
+                  Hello, I'm Poorvi Reddy
 ```
 
 # Aspiring Software Developer specializing in Full Stack Development, Cloud Computing
