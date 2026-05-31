@@ -1,32 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:1a1744,100:0d1b2a&height=3&section=header" width="100%"/>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════╗
+║   CS Undergraduate  ·  Cloud & Full Stack Engineer   ║
+╚══════════════════════════════════════════════════════╝
+```
 
 # Poorvi Shasta Reddy
 
-**CS Undergraduate · Cloud & Full Stack Engineer**
+*Building scalable systems where cloud infrastructure meets modern web architecture —*
+*from serverless AWS pipelines to ML-integrated full stack platforms.*
 
-*Building scalable systems at the intersection of cloud infrastructure and modern web architecture.*
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvireddy1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://poorvishastareddy.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PoorviShasta)
+[![GitHub](https://img.shields.io/badge/GitHub-PoorviShasta-181717?style=flat-square&logo=github)](https://github.com/PoorviShasta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-poorvireddy1-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/poorvireddy1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-poorvishastareddy.netlify.app-00BFA5?style=flat-square&logo=netlify&logoColor=white)](https://poorvishastareddy.netlify.app/)
 
 </div>
 
----
-
-## About
-
-I'm a Computer Science undergraduate with hands-on experience in full stack web development, cloud-native architecture, and backend systems engineering. My work spans serverless deployments on AWS, production-grade MERN applications, and AI-integrated platforms.
-
-I approach engineering with a focus on scalability, clean system design, and pragmatic architecture — not just getting things to work, but building them to last.
-
-Currently exploring: **serverless patterns**, **distributed systems**, and **ML-integrated web applications**.
+<br/>
 
 ---
 
-## Technical Stack
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### `$ whoami`
+
+CS undergraduate with hands-on experience in cloud-native architecture, full stack engineering, and backend systems. My work spans serverless deployments on AWS, production-grade MERN applications, and AI-integrated platforms.
+
+I focus on **scalability**, **clean system design**, and **pragmatic architecture** — not just getting things to work, but building them to last.
+
+> Currently exploring: serverless patterns, distributed systems, and ML-integrated web applications.
+
+</td>
+<td width="45%" valign="top">
+
+### Focus Areas
+
+```yaml
+cloud:      AWS · Azure · Serverless
+fullstack:  MERN · REST APIs
+ml/ai:      Flask · Image Classification
+devops:     Docker · Kubernetes · Apache
+languages:  C++ · Java · JS · Python · C
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
 
 **Languages**
 
@@ -36,75 +68,71 @@ Currently exploring: **serverless patterns**, **distributed systems**, and **ML-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-**Frontend**
+**Frontend · Backend · Databases**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Databases**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud · DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### [Serverless Feedback Logger — AWS](https://github.com/PoorviShasta)
-> Serverless feedback pipeline deployed on AWS S3 with IAM-based access control. Designed for low-cost, high-availability operation with zero server maintenance overhead.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`AWS S3` `IAM` `Serverless` `Cloud Architecture`
+**[Serverless Feedback Logger — AWS](https://github.com/PoorviShasta)**
 
----
+Feedback pipeline on AWS S3 with IAM-secured access control. Zero-server architecture built for low-cost, high-availability operation.
 
-### [Vidura — Sustainable Farming Support Platform](https://github.com/PoorviShasta)
-> Flask-based ML web application providing plant disease detection through image classification and AI chatbot integration for real-time agricultural guidance. Combines external API orchestration with a clean, accessible UI.
+`AWS S3` `IAM` `Serverless` `Cloud`
 
-`Flask` `Machine Learning` `AI Chatbot` `REST APIs` `Python`
+</td>
+<td width="50%" valign="top">
 
----
+**[Vidura — Sustainable Farming Platform](https://github.com/PoorviShasta)**
 
-### [Notes App — MERN Stack](https://github.com/PoorviShasta)
-> End-to-end CRUD application built on the MERN stack. Features RESTful API design, authenticated routes, and full MongoDB integration — demonstrating production-ready full stack patterns.
+Flask + ML app for plant disease detection via image classification, with an AI chatbot and external API orchestration for real-time guidance.
 
-`MongoDB` `Express.js` `React` `Node.js` `REST API`
+`Flask` `ML` `AI Chatbot` `Python`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### [DSA Story Visualizer](https://github.com/PoorviShasta)
-> Interactive platform that visualizes data structures and algorithms through step-by-step animated storytelling. Built to make algorithmic thinking intuitive and accessible.
+**[Notes App — MERN Stack](https://github.com/PoorviShasta)**
 
-`JavaScript` `Data Structures` `Algorithms` `Interactive UI`
+End-to-end CRUD application with RESTful API design, authenticated routes, and full MongoDB integration.
 
----
+`MongoDB` `Express` `React` `Node.js`
 
-## Achievements
+</td>
+<td width="50%" valign="top">
 
-| Recognition | Event |
-|---|---|
-| 🏅 Top 5 Finalist | IIT Ropar — Research Paper Presentation |
-| 🏅 Top 20 Finalist | Agrithon Hackathon |
-| 🥈 1st Runner-Up | HackWithVertos — 24-Hour Hackathon |
-| 🥈 1st Runner-Up | Debate Competition |
+**[DSA Story Visualizer](https://github.com/PoorviShasta)**
 
----
+Interactive platform that visualizes data structures and algorithms through step-by-step animated storytelling.
 
-## Certifications
+`JavaScript` `DSA` `Interactive UI`
 
-- **DSA using C++** — Cipher Schools
-- **Social Networks** — NPTEL, IIT Madras
-- **Responsive Web Design** — freeCodeCamp
+</td>
+</tr>
+</table>
 
 ---
 
@@ -112,26 +140,43 @@ Currently exploring: **serverless patterns**, **distributed systems**, and **ML-
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PoorviShasta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoorviShasta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoorviShasta&theme=tokyonight&hide_border=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=PoorviShasta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoorviShasta&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 ---
 
+## Recognition
+
+| Award | Event |
+|---|---|
+| 🏅 **Top 5 Finalist** | IIT Ropar — Research Paper Presentation |
+| 🏅 **Top 20 Finalist** | Agrithon Hackathon |
+| 🥈 **1st Runner-Up** | HackWithVertos — 24-Hour Hackathon |
+| 🥈 **1st Runner-Up** | Debate Competition |
+
+---
+
+## Certifications
+
+```
+. Azure Administrator Associate certification - Microsoft Azure
+.  Cloud Architecting Training Badge - AWS Academy
+· DSA using C++              — Cipher Schools
+· Social Networks            — NPTEL, IIT Madras
+· Responsive Web Design      — freeCodeCamp
+```
+
+---
+
 <div align="center">
 
-*Open to internship opportunities in Cloud Engineering, Full Stack Development, and Backend Systems.*
+**Open to internship opportunities in Cloud Engineering, Full Stack, and Backend Systems.**
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvireddy1)
+[![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvireddy1)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:1a1744,100:0f0c29&height=3&section=footer" width="100%"/>
 
 </div>
