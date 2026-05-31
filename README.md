@@ -6,11 +6,11 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║   CS Undergraduate  ·  Cloud & Full Stack Engineer   ║
+║  Hello, I'm Poorvi Reddy
 ╚══════════════════════════════════════════════════════╝
 ```
 
-# Poorvi Shasta Reddy
+# Aspiring Software Developer specializing in Full Stack Development, Cloud Computing
 
 *Building scalable systems where cloud infrastructure meets modern web architecture —*
 *from serverless AWS pipelines to ML-integrated full stack platforms.*
