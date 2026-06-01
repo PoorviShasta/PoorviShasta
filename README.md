@@ -11,7 +11,7 @@
 # Hello , I'm Poorvi Reddy
 
 *Building scalable systems where cloud infrastructure meets modern web architecture —*
-*from serverless AWS pipelines to ML-integrated full stack platforms.*
+*from serverless AWS pipelines to full stack web applications using MERN stack.*
 
 <br/>
 
